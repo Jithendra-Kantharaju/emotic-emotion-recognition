@@ -1,0 +1,5 @@
+emotic/images/
+cropped_faces/
+__pycache__/
+*.pyc
+*.zip
