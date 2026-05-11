@@ -6,7 +6,7 @@
 ## Project Structure
 
 ```
-Kantharaju_Project3/
+emotic-emotion-recognition/
 ├── emotic/                        ← unzip emotic.zip here
 │   ├── images/                    ← image subsets (ade20k, mscoco, …)
 │   └── annotations.csv
@@ -56,14 +56,14 @@ Kantharaju_Project3/
 ### Step 1 — Unzip the dataset
 Unzip `emotic.zip` so the folder structure is:
 ```
-Kantharaju_Project3/emotic/images/ade20k/...
-Kantharaju_Project3/emotic/images/mscoco/...
-Kantharaju_Project3/emotic/annotations.csv
+emotic-emotion-recognition/emotic/images/ade20k/...
+emotic-emotion-recognition/emotic/images/mscoco/...
+emotic-emotion-recognition/emotic/annotations.csv
 ```
 
 ### Step 2 — Open in VS Code
 ```
-File → Open Folder → select Kantharaju_Project3/
+File → Open Folder → select emotic-emotion-recognition/
 ```
 
 ### Step 3 — Create and activate a virtual environment
